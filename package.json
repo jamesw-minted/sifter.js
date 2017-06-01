@@ -30,7 +30,8 @@
     "cardinal": "0.4.x",
     "async": "0.2.x",
     "humanize": "0.0.x",
-    "csv-parse": "^1.1.7"
+    "csv-parse": "^1.1.7",
+    "microtime": "^2.1.0"
   },
   "devDependencies": {
     "mocha": "1.12.x",
@@ -39,9 +40,6 @@
     "coveralls": "2.3.x",
     "uglify-js": "2.4.x",
     "istanbul": "0.1.x"
-  },
-  "optionalDependencies": {
-    "microtime": "^2.1.0"
   },
   "engines": {
     "node": "*"
